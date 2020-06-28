@@ -1,0 +1,618 @@
+C:\Users\Marcos\Downloads\ProjetoVOTO\ModeloCamadasCSharp-master\UI\bin\Debug\PadraoDeProjetoEmCamadas.exe.config
+C:\Users\Marcos\Downloads\ProjetoVOTO\ModeloCamadasCSharp-master\UI\bin\Debug\PadraoDeProjetoEmCamadas.exe
+C:\Users\Marcos\Downloads\ProjetoVOTO\ModeloCamadasCSharp-master\UI\bin\Debug\PadraoDeProjetoEmCamadas.pdb
+C:\Users\Marcos\Downloads\ProjetoVOTO\ModeloCamadasCSharp-master\UI\bin\Debug\BLL.dll
+C:\Users\Marcos\Downloads\ProjetoVOTO\ModeloCamadasCSharp-master\UI\bin\Debug\DAL.dll
+C:\Users\Marcos\Downloads\ProjetoVOTO\ModeloCamadasCSharp-master\UI\bin\Debug\MODELO.dll
+C:\Users\Marcos\Downloads\ProjetoVOTO\ModeloCamadasCSharp-master\UI\bin\Debug\MySql.Data.dll
+C:\Users\Marcos\Downloads\ProjetoVOTO\ModeloCamadasCSharp-master\UI\bin\Debug\BLL.pdb
+C:\Users\Marcos\Downloads\ProjetoVOTO\ModeloCamadasCSharp-master\UI\bin\Debug\DAL.pdb
+C:\Users\Marcos\Downloads\ProjetoVOTO\ModeloCamadasCSharp-master\UI\bin\Debug\MODELO.pdb
+C:\Users\Marcos\Downloads\ProjetoVOTO\ModeloCamadasCSharp-master\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\Marcos\Downloads\ProjetoVOTO\ModeloCamadasCSharp-master\UI\obj\Debug\PadraoDeProjetoEmCamadas.frmCadastroPessoa.resources
+C:\Users\Marcos\Downloads\ProjetoVOTO\ModeloCamadasCSharp-master\UI\obj\Debug\PadraoDeProjetoEmCamadas.FRMLocalizar.resources
+C:\Users\Marcos\Downloads\ProjetoVOTO\ModeloCamadasCSharp-master\UI\obj\Debug\PadraoDeProjetoEmCamadas.frmModeloDeCadastro.resources
+C:\Users\Marcos\Downloads\ProjetoVOTO\ModeloCamadasCSharp-master\UI\obj\Debug\PadraoDeProjetoEmCamadas.frmPrincipal.resources
+C:\Users\Marcos\Downloads\ProjetoVOTO\ModeloCamadasCSharp-master\UI\obj\Debug\PadraoDeProjetoEmCamadas.Properties.Resources.resources
+C:\Users\Marcos\Downloads\ProjetoVOTO\ModeloCamadasCSharp-master\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\Marcos\Downloads\ProjetoVOTO\ModeloCamadasCSharp-master\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Downloads\ProjetoVOTO\ModeloCamadasCSharp-master\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\Marcos\Downloads\ProjetoVOTO\ModeloCamadasCSharp-master\UI\obj\Debug\PadraoDeProjetoEmCamadas.exe
+C:\Users\Marcos\Downloads\ProjetoVOTO\ModeloCamadasCSharp-master\UI\obj\Debug\PadraoDeProjetoEmCamadas.pdb
+C:\Users\Marcos\Downloads\ProjetoVOTO\ModeloCamadasCSharp-master\UI\obj\Debug\PadraoDeProjetoEmCamadas.frmCadastroEmpresa.resources
+C:\Users\Marcos\Downloads\ProjetoVOTO\ModeloCamadasCSharp-master\UI\obj\Debug\PadraoDeProjetoEmCamadas.FRMLocalizarEmpresas.resources
+C:\Users\Marcos\Downloads\ProjetoVOTO\ModeloCamadasCSharp-master\UI\obj\Debug\PadraoDeProjetoEmCamadas.frmCadastroEleicao.resources
+C:\Users\Marcos\Downloads\ProjetoVOTO\ModeloCamadasCSharp-master\UI\obj\Debug\PadraoDeProjetoEmCamadas.FRMLLocaElei.resources
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.frmCadastroEleicao.resources
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.frmCadastroEmpresa.resources
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.frmCadastroPessoa.resources
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.FRMLLocaElei.resources
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.FRMLocalizar.resources
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.FRMLocalizarEmpresas.resources
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.frmModeloDeCadastro.resources
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.frmPrincipal.resources
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.Properties.Resources.resources
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.exe
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.pdb
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\bin\Debug\PadraoDeProjetoEmCamadas.exe.config
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\bin\Debug\PadraoDeProjetoEmCamadas.exe
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\bin\Debug\PadraoDeProjetoEmCamadas.pdb
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\bin\Debug\BLL.dll
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\bin\Debug\DAL.dll
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\bin\Debug\MODEL.dll
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\bin\Debug\Google.Protobuf.dll
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\bin\Debug\Renci.SshNet.dll
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\bin\Debug\Zstandard.Net.dll
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\bin\Debug\System.Buffers.dll
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\bin\Debug\System.Memory.dll
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\bin\Debug\BLL.pdb
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\bin\Debug\BLL.dll.config
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\bin\Debug\DAL.pdb
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\bin\Debug\DAL.dll.config
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\bin\Debug\MODEL.pdb
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\bin\Debug\Google.Protobuf.xml
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\bin\Debug\Renci.SshNet.xml
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\bin\Debug\System.Buffers.xml
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\bin\Debug\System.Memory.xml
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.exe.config
+C:\Users\Marcos\Downloads\VOTOFINAL\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\bin\Debug\PadraoDeProjetoEmCamadas.exe.config
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\bin\Debug\PadraoDeProjetoEmCamadas.exe
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\bin\Debug\PadraoDeProjetoEmCamadas.pdb
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\bin\Debug\BLL.dll
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\bin\Debug\DAL.dll
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\bin\Debug\MODEL.dll
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\bin\Debug\MySql.Data.dll
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\bin\Debug\Google.Protobuf.dll
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\bin\Debug\Renci.SshNet.dll
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\bin\Debug\Zstandard.Net.dll
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\bin\Debug\System.Buffers.dll
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\bin\Debug\System.Memory.dll
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\bin\Debug\BLL.pdb
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\bin\Debug\BLL.dll.config
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\bin\Debug\DAL.pdb
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\bin\Debug\DAL.dll.config
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\bin\Debug\MODEL.pdb
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\bin\Debug\MySql.Data.xml
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\bin\Debug\System.Buffers.xml
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\bin\Debug\System.Memory.xml
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.frmCadastroEleicao.resources
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.frmCadastroEmpresa.resources
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.frmCadastroPessoa.resources
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.FRMLLocaElei.resources
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.FRMLocalizar.resources
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.FRMLocalizarEmpresas.resources
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.frmModeloDeCadastro.resources
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.frmPrincipal.resources
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.Properties.Resources.resources
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.exe
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.pdb
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.Urna.resources
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\bin\Debug\Google.Protobuf.xml
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\bin\Debug\Renci.SshNet.xml
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.Voto.resources
+C:\Users\João\Desktop\marlon\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.Eleitor.resources
+C:\Users\rafae\Desktop\VOTOFINAL\UI\bin\Debug\PadraoDeProjetoEmCamadas.exe.config
+C:\Users\rafae\Desktop\VOTOFINAL\UI\bin\Debug\PadraoDeProjetoEmCamadas.exe
+C:\Users\rafae\Desktop\VOTOFINAL\UI\bin\Debug\PadraoDeProjetoEmCamadas.pdb
+C:\Users\rafae\Desktop\VOTOFINAL\UI\bin\Debug\BLL.dll
+C:\Users\rafae\Desktop\VOTOFINAL\UI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\rafae\Desktop\VOTOFINAL\UI\bin\Debug\DAL.dll
+C:\Users\rafae\Desktop\VOTOFINAL\UI\bin\Debug\Google.Protobuf.dll
+C:\Users\rafae\Desktop\VOTOFINAL\UI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\rafae\Desktop\VOTOFINAL\UI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\rafae\Desktop\VOTOFINAL\UI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\rafae\Desktop\VOTOFINAL\UI\bin\Debug\MODEL.dll
+C:\Users\rafae\Desktop\VOTOFINAL\UI\bin\Debug\MySql.Data.dll
+C:\Users\rafae\Desktop\VOTOFINAL\UI\bin\Debug\Renci.SshNet.dll
+C:\Users\rafae\Desktop\VOTOFINAL\UI\bin\Debug\System.Buffers.dll
+C:\Users\rafae\Desktop\VOTOFINAL\UI\bin\Debug\System.Memory.dll
+C:\Users\rafae\Desktop\VOTOFINAL\UI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rafae\Desktop\VOTOFINAL\UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rafae\Desktop\VOTOFINAL\UI\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\rafae\Desktop\VOTOFINAL\UI\bin\Debug\Zstandard.Net.dll
+C:\Users\rafae\Desktop\VOTOFINAL\UI\bin\Debug\BLL.pdb
+C:\Users\rafae\Desktop\VOTOFINAL\UI\bin\Debug\BLL.dll.config
+C:\Users\rafae\Desktop\VOTOFINAL\UI\bin\Debug\DAL.pdb
+C:\Users\rafae\Desktop\VOTOFINAL\UI\bin\Debug\DAL.dll.config
+C:\Users\rafae\Desktop\VOTOFINAL\UI\bin\Debug\MODEL.pdb
+C:\Users\rafae\Desktop\VOTOFINAL\UI\bin\Debug\Google.Protobuf.xml
+C:\Users\rafae\Desktop\VOTOFINAL\UI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\rafae\Desktop\VOTOFINAL\UI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\rafae\Desktop\VOTOFINAL\UI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\rafae\Desktop\VOTOFINAL\UI\bin\Debug\MySql.Data.xml
+C:\Users\rafae\Desktop\VOTOFINAL\UI\bin\Debug\Renci.SshNet.xml
+C:\Users\rafae\Desktop\VOTOFINAL\UI\bin\Debug\System.Buffers.xml
+C:\Users\rafae\Desktop\VOTOFINAL\UI\bin\Debug\System.Memory.xml
+C:\Users\rafae\Desktop\VOTOFINAL\UI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rafae\Desktop\VOTOFINAL\UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rafae\Desktop\VOTOFINAL\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\rafae\Desktop\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.Eleitor.resources
+C:\Users\rafae\Desktop\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.frmCadastroEleicao.resources
+C:\Users\rafae\Desktop\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.frmCadastroEmpresa.resources
+C:\Users\rafae\Desktop\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.frmCadastroPessoa.resources
+C:\Users\rafae\Desktop\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.FRMLLocaElei.resources
+C:\Users\rafae\Desktop\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.FRMLocalizar.resources
+C:\Users\rafae\Desktop\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.FRMLocalizarEmpresas.resources
+C:\Users\rafae\Desktop\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.frmModeloDeCadastro.resources
+C:\Users\rafae\Desktop\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.frmPrincipal.resources
+C:\Users\rafae\Desktop\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.Properties.Resources.resources
+C:\Users\rafae\Desktop\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.Urna.resources
+C:\Users\rafae\Desktop\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.Voto.resources
+C:\Users\rafae\Desktop\VOTOFINAL\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\rafae\Desktop\VOTOFINAL\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Desktop\VOTOFINAL\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\rafae\Desktop\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.exe
+C:\Users\rafae\Desktop\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.pdb
+C:\Users\rafae\Desktop\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.FRMLCandidato.resources
+C:\Users\filip\Desktop\VOTOFINAL\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\filip\Desktop\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.principals.resources
+C:\Users\filip\Desktop\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.Properties.Resources.resources
+C:\Users\filip\Desktop\VOTOFINAL\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\filip\Desktop\VOTOFINAL\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.exe
+C:\Users\filip\Desktop\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.pdb
+C:\Users\filip\Desktop\VOTOFINAL\UI\bin\Debug\PadraoDeProjetoEmCamadas.exe.config
+C:\Users\filip\Desktop\VOTOFINAL\UI\bin\Debug\PadraoDeProjetoEmCamadas.exe
+C:\Users\filip\Desktop\VOTOFINAL\UI\bin\Debug\PadraoDeProjetoEmCamadas.pdb
+C:\Users\filip\Desktop\VOTOFINAL\UI\bin\Debug\BLL.dll
+C:\Users\filip\Desktop\VOTOFINAL\UI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\filip\Desktop\VOTOFINAL\UI\bin\Debug\DAL.dll
+C:\Users\filip\Desktop\VOTOFINAL\UI\bin\Debug\Google.Protobuf.dll
+C:\Users\filip\Desktop\VOTOFINAL\UI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\filip\Desktop\VOTOFINAL\UI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\filip\Desktop\VOTOFINAL\UI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\filip\Desktop\VOTOFINAL\UI\bin\Debug\MODEL.dll
+C:\Users\filip\Desktop\VOTOFINAL\UI\bin\Debug\Renci.SshNet.dll
+C:\Users\filip\Desktop\VOTOFINAL\UI\bin\Debug\System.Buffers.dll
+C:\Users\filip\Desktop\VOTOFINAL\UI\bin\Debug\System.Memory.dll
+C:\Users\filip\Desktop\VOTOFINAL\UI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\filip\Desktop\VOTOFINAL\UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\filip\Desktop\VOTOFINAL\UI\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\filip\Desktop\VOTOFINAL\UI\bin\Debug\Zstandard.Net.dll
+C:\Users\filip\Desktop\VOTOFINAL\UI\bin\Debug\BLL.pdb
+C:\Users\filip\Desktop\VOTOFINAL\UI\bin\Debug\BLL.dll.config
+C:\Users\filip\Desktop\VOTOFINAL\UI\bin\Debug\DAL.pdb
+C:\Users\filip\Desktop\VOTOFINAL\UI\bin\Debug\DAL.dll.config
+C:\Users\filip\Desktop\VOTOFINAL\UI\bin\Debug\MODEL.pdb
+C:\Users\filip\Desktop\VOTOFINAL\UI\bin\Debug\Google.Protobuf.xml
+C:\Users\filip\Desktop\VOTOFINAL\UI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\filip\Desktop\VOTOFINAL\UI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\filip\Desktop\VOTOFINAL\UI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\filip\Desktop\VOTOFINAL\UI\bin\Debug\MySql.Data.xml
+C:\Users\filip\Desktop\VOTOFINAL\UI\bin\Debug\Renci.SshNet.xml
+C:\Users\filip\Desktop\VOTOFINAL\UI\bin\Debug\System.Buffers.xml
+C:\Users\filip\Desktop\VOTOFINAL\UI\bin\Debug\System.Memory.xml
+C:\Users\filip\Desktop\VOTOFINAL\UI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\filip\Desktop\VOTOFINAL\UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\filip\Desktop\VOTOFINAL\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\filip\Desktop\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Candidato.resources
+C:\Users\filip\Desktop\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Eleitor.resources
+C:\Users\filip\Desktop\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.LocaEleicao.resources
+C:\Users\filip\Desktop\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Localizar.resources
+C:\Users\filip\Desktop\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.LocalizarEmpresa.resources
+C:\Users\filip\Desktop\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Urna.resources
+C:\Users\filip\Desktop\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Voto.resources
+C:\Users\filip\Desktop\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Eleicao.resources
+C:\Users\filip\Desktop\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Empresa.resources
+C:\Users\filip\Desktop\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Pessoa.resources
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\bin\Debug\PadraoDeProjetoEmCamadas.exe.config
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\bin\Debug\PadraoDeProjetoEmCamadas.exe
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\bin\Debug\PadraoDeProjetoEmCamadas.pdb
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\bin\Debug\BLL.dll
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\bin\Debug\DAL.dll
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\bin\Debug\Google.Protobuf.dll
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\bin\Debug\MODEL.dll
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\bin\Debug\Renci.SshNet.dll
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\bin\Debug\System.Buffers.dll
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\bin\Debug\System.Memory.dll
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\bin\Debug\Zstandard.Net.dll
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\bin\Debug\BLL.pdb
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\bin\Debug\BLL.dll.config
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\bin\Debug\DAL.pdb
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\bin\Debug\DAL.dll.config
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\bin\Debug\MODEL.pdb
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\bin\Debug\Google.Protobuf.xml
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\bin\Debug\MySql.Data.xml
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\bin\Debug\Renci.SshNet.xml
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\bin\Debug\System.Buffers.xml
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\bin\Debug\System.Memory.xml
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Eleicao.resources
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Empresa.resources
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Pessoa.resources
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Candidato.resources
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Eleitor.resources
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.LocaEleicao.resources
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Localizar.resources
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.LocalizarEmpresa.resources
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Urna.resources
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Voto.resources
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.principals.resources
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.Properties.Resources.resources
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.exe
+C:\Users\filip\Desktop\Programa Voto\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.pdb
+C:\VOTOFINAL\UI\bin\Debug\PadraoDeProjetoEmCamadas.exe.config
+C:\VOTOFINAL\UI\bin\Debug\PadraoDeProjetoEmCamadas.exe
+C:\VOTOFINAL\UI\bin\Debug\PadraoDeProjetoEmCamadas.pdb
+C:\VOTOFINAL\UI\bin\Debug\BLL.dll
+C:\VOTOFINAL\UI\bin\Debug\BouncyCastle.Crypto.dll
+C:\VOTOFINAL\UI\bin\Debug\DAL.dll
+C:\VOTOFINAL\UI\bin\Debug\Google.Protobuf.dll
+C:\VOTOFINAL\UI\bin\Debug\K4os.Compression.LZ4.dll
+C:\VOTOFINAL\UI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\VOTOFINAL\UI\bin\Debug\K4os.Hash.xxHash.dll
+C:\VOTOFINAL\UI\bin\Debug\MODEL.dll
+C:\VOTOFINAL\UI\bin\Debug\Renci.SshNet.dll
+C:\VOTOFINAL\UI\bin\Debug\System.Buffers.dll
+C:\VOTOFINAL\UI\bin\Debug\System.Memory.dll
+C:\VOTOFINAL\UI\bin\Debug\System.Numerics.Vectors.dll
+C:\VOTOFINAL\UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\VOTOFINAL\UI\bin\Debug\Ubiety.Dns.Core.dll
+C:\VOTOFINAL\UI\bin\Debug\Zstandard.Net.dll
+C:\VOTOFINAL\UI\bin\Debug\BLL.pdb
+C:\VOTOFINAL\UI\bin\Debug\BLL.dll.config
+C:\VOTOFINAL\UI\bin\Debug\DAL.pdb
+C:\VOTOFINAL\UI\bin\Debug\DAL.dll.config
+C:\VOTOFINAL\UI\bin\Debug\MODEL.pdb
+C:\VOTOFINAL\UI\bin\Debug\Google.Protobuf.xml
+C:\VOTOFINAL\UI\bin\Debug\K4os.Compression.LZ4.xml
+C:\VOTOFINAL\UI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\VOTOFINAL\UI\bin\Debug\K4os.Hash.xxHash.xml
+C:\VOTOFINAL\UI\bin\Debug\MySql.Data.xml
+C:\VOTOFINAL\UI\bin\Debug\Renci.SshNet.xml
+C:\VOTOFINAL\UI\bin\Debug\System.Buffers.xml
+C:\VOTOFINAL\UI\bin\Debug\System.Memory.xml
+C:\VOTOFINAL\UI\bin\Debug\System.Numerics.Vectors.xml
+C:\VOTOFINAL\UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\VOTOFINAL\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Eleicao.resources
+C:\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Empresa.resources
+C:\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Pessoa.resources
+C:\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Candidato.resources
+C:\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Eleitor.resources
+C:\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.LocaEleicao.resources
+C:\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Localizar.resources
+C:\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.LocalizarEmpresa.resources
+C:\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Urna.resources
+C:\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Voto.resources
+C:\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.principals.resources
+C:\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.Properties.Resources.resources
+C:\VOTOFINAL\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\VOTOFINAL\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\VOTOFINAL\UI\obj\Debug\UI.csproj.CopyComplete
+C:\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.exe
+C:\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.pdb
+C:\VOTOFINAL\UI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\VOTOFINAL\UI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\VOTOFINAL\UI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\VOTOFINAL\UI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\VOTOFINAL\UI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\VOTOFINAL\UI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\VOTOFINAL\UI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\VOTOFINAL\UI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\VOTOFINAL\UI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\VOTOFINAL\UI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\VOTOFINAL\UI\bin\Debug\EnvDTE.dll
+C:\VOTOFINAL\UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\VOTOFINAL\UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\VOTOFINAL\UI\bin\Debug\stdole.dll
+C:\VOTOFINAL\UI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\VOTOFINAL\UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\VOTOFINAL\UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\VOTOFINAL\UI\bin\Debug\Microsoft.MSXML.dll
+C:\VOTOFINAL\UI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\VOTOFINAL\UI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\VOTOFINAL\UI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\VOTOFINAL\UI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\VOTOFINAL\UI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\VOTOFINAL\UI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\VOTOFINAL\UI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\VOTOFINAL\UI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\VOTOFINAL\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\VOTOFINAL\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\VOTOFINAL\UI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\VOTOFINAL\UI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\VOTOFINAL\UI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\VOTOFINAL\UI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\VOTOFINAL\UI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\VOTOFINAL\UI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\VOTOFINAL\UI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\VOTOFINAL\UI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\VOTOFINAL\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\VOTOFINAL\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\VOTOFINAL\UI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\VOTOFINAL\UI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\VOTOFINAL\UI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\VOTOFINAL\UI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\VOTOFINAL\UI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\VOTOFINAL\UI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\VOTOFINAL\UI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\VOTOFINAL\UI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\VOTOFINAL\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\VOTOFINAL\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\VOTOFINAL\UI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\VOTOFINAL\UI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\VOTOFINAL\UI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\VOTOFINAL\UI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\VOTOFINAL\UI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\VOTOFINAL\UI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\VOTOFINAL\UI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\VOTOFINAL\UI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\VOTOFINAL\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\VOTOFINAL\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Relatorio.resources
+C:\VOTOFINAL\UI\obj\Debug\RdlCompile.cache
+C:\VOTOFINAL\UI\obj\Debug\RdlCompile.compiled
+C:\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Relatorio2.resources
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\PadraoDeProjetoEmCamadas.exe.config
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\PadraoDeProjetoEmCamadas.exe
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\PadraoDeProjetoEmCamadas.pdb
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\BLL.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\DAL.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\Google.Protobuf.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\MODEL.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\Renci.SshNet.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\System.Buffers.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\System.Memory.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\Zstandard.Net.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\EnvDTE.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\stdole.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\Microsoft.MSXML.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\BLL.pdb
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\BLL.dll.config
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\DAL.pdb
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\DAL.dll.config
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\MODEL.pdb
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\Google.Protobuf.xml
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\MySql.Data.xml
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\Renci.SshNet.xml
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\System.Buffers.xml
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\System.Memory.xml
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Eleicao.resources
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Empresa.resources
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Pessoa.resources
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Candidato.resources
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Eleitor.resources
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.LocaEleicao.resources
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Localizar.resources
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.LocalizarEmpresa.resources
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Relatorio2.resources
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Urna.resources
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Voto.resources
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.principals.resources
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.Properties.Resources.resources
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.exe
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.pdb
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\obj\Debug\RdlCompile.cache
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\obj\Debug\RdlCompile.compiled
+C:\Users\filip\Desktop\VOTOFINAL (3)\VOTOFINAL\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.RelatorioEmpresa.resources
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Eleicao.resources
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Empresa.resources
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Pessoa.resources
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Candidato.resources
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Eleitor.resources
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.LocaEleicao.resources
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Localizar.resources
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.LocalizarEmpresa.resources
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Relatorio2.resources
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Urna.resources
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Voto.resources
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\obj\Debug\PadraoDeProjetoEmCamadas.principals.resources
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\obj\Debug\PadraoDeProjetoEmCamadas.Properties.Resources.resources
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\obj\Debug\RdlCompile.cache
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\obj\Debug\RdlCompile.compiled
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\obj\Debug\PadraoDeProjetoEmCamadas.exe
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\obj\Debug\PadraoDeProjetoEmCamadas.pdb
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\PadraoDeProjetoEmCamadas.exe.config
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\PadraoDeProjetoEmCamadas.exe
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\PadraoDeProjetoEmCamadas.pdb
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\BLL.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\DAL.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\Google.Protobuf.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\MODEL.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\Renci.SshNet.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\System.Buffers.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\System.Memory.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\Zstandard.Net.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\EnvDTE.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\stdole.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\BLL.pdb
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\BLL.dll.config
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\DAL.pdb
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\DAL.dll.config
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\MODEL.pdb
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\Google.Protobuf.xml
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\MySql.Data.xml
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\Renci.SshNet.xml
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\System.Buffers.xml
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\System.Memory.xml
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\obj\Debug\PadraoDeProjetoEmCamadas.forms.Relatorio.resources
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Downloads\VotoFinalBD\UI\obj\Debug\UI.csproj.CopyComplete
